@@ -1,0 +1,132 @@
+html,
+body,
+header,
+
+#intro {
+    height: 100%;
+}
+#intro1 {
+  height: 100%;
+}
+#intro2 {
+  height: 100%;
+}
+#intro3 {
+  height: 100%;
+}
+#intro4 {
+  height: 100%;
+}
+#intro5 {
+  height: 100%;
+}
+#intro6 {
+  height: 100%;
+}
+#intro {
+    background: url("https://user-images.githubusercontent.com/106903426/175516337-fa784d64-1055-47c5-96fd-e821913c75e6.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+
+#intro1 {
+  background: url("https://user-images.githubusercontent.com/106903426/175516308-7c9abca5-fcd9-4ce3-ac16-1723bf79b6fb.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+  -moz-background-size: cover;    /* 针对Firefox浏览器 */
+  -o-background-size: cover;      /* 针对Operallq */
+  background-size: cover;         /* 通用 */
+}
+
+#intro2 {
+  background: url("https://user-images.githubusercontent.com/106903426/175516361-6adf5dd9-4a6c-4142-8e9a-a174064e34f2.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+  -moz-background-size: cover;    /* 针对Firefox浏览器 */
+  -o-background-size: cover;      /* 针对Operallq */
+  background-size: cover;         /* 通用 */
+}
+
+#intro3 {
+  background: url("https://user-images.githubusercontent.com/106903426/175516329-5cb9f983-f321-41ab-9f12-cb850fb028d9.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+  -moz-background-size: cover;    /* 针对Firefox浏览器 */
+  -o-background-size: cover;      /* 针对Operallq */
+  background-size: cover;         /* 通用 */
+}
+
+#intro4 {
+  background: url("https://user-images.githubusercontent.com/106903426/175516315-b849b3bb-376d-4f3b-bd26-d848448c5e3a.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+  -moz-background-size: cover;    /* 针对Firefox浏览器 */
+  -o-background-size: cover;      /* 针对Operallq */
+  background-size: cover;         /* 通用 */
+ 
+}
+#intro5 {
+  background: url("https://user-images.githubusercontent.com/106903426/175516351-ce3807ab-5b54-4deb-8256-5d192d35a795.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+  -moz-background-size: cover;    /* 针对Firefox浏览器 */
+  -o-background-size: cover;      /* 针对Operallq */
+  background-size: cover;         /* 通用 */
+}
+
+#intro6 {
+  background: url("https://user-images.githubusercontent.com/106903426/175516345-c106eea7-1905-46ec-9252-ae777fda8452.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+  -moz-background-size: cover;    /* 针对Firefox浏览器 */
+  -o-background-size: cover;      /* 针对Operallq */
+  background-size: cover;         /* 通用 */
+}
+.top-nav-collapse {
+  background-color: #f47983;
+}
+
+#container .row  {
+  display: block;
+  margin: auto;
+  text-align: center; 
+  background-position:50% 50%
+}
+ 
+#examples.text-center{
+  -webkit-filter: opacity(100%); /* Chrome, Safari, Opera */
+
+  filter: opacity(1000%);
+}
+
+#examples.text-center h2{
+  margin: 0;
+  padding: 0.5rem;
+  color: rgb(255, 255, 255);
+  background-color: #f47983;
+  border-top-left-radius: .8rem;
+  border-top-right-radius: .8rem;
+}
+
+
+
+#introduce.text-center h3{
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-right: 70%;
+  margin-bottom: 0;
+  padding: 0.5rem;
+  color: black;
+  background-color: #000000;
+  border-top-left-radius: .8rem;
+  border-top-right-radius: .8rem;
+}
+
+#introduce.text-center  p{
+color:rgb(252, 252, 252);
+padding: 1rem;
+margin-top: 0;
+margin-left:20%;
+margin-right: 30%;
+background-color: bisque;
+font-size: larger;
+border-bottom-left-radius: .8rem;
+border-bottom-right-radius: .8rem;
+border-top-right-radius: .8rem;
+}
